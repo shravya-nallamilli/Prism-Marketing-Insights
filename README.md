@@ -1,93 +1,106 @@
 # Prism Marketing Insights
 
 ## 📖 Project Overview
-This project analyses customer and transaction data for a fast-fashion e-commerce retailer, Prism, focusing on delivering actionable marketing insights. The analysis emphasises customer segmentation, geographic trends, and behavioural patterns, providing data-driven recommendations for targeted marketing.
+This project analyses customer and transaction data for a fast-fashion e-commerce retailer, Prism, focusing on delivering actionable marketing insights. The analysis emphasises customer segmentation, geographic trends, and behavioural patterns, providing data-driven recommendations for targeted marketing strategies. These insights aim to improve customer retention, enhance revenue streams, and optimise marketing efforts.
 
 ---
 
 ## 📁 Repository Structure
 
 - **SQL Scripts**: 
-  - Analysis scripts for RFM, demographics, geographic trends, and customer behavior.
-- **Power BI Dashboard**:
+  - Analysis scripts for RFM, demographics, geographic trends, and customer behaviour.
+- **[Power BI Dashboard](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/ddd8799953ba48cf0de44590a0b42f947fa4e24d/Team%20SASS%20dashboard.pbix)**:
   - Interactive visualisations summarising key insights and metrics.
-- **Presentation Files**:
+- **[Presentation Files](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/ddd8799953ba48cf0de44590a0b42f947fa4e24d/Prism%20Marketing%20Insights.pdf)**:
   - A PowerPoint presentation summarising findings and recommendations.
 
 ---
 
 ## 📊 Key Insights
 
-### Slide 1: Executive Summary
-- **Overview**: Prism is a fast-fashion e-commerce retailer known for trendy and affordable clothing. The project focuses on analysing 2020-2021 customer data to provide targeted marketing strategies.
+### Slide 3: Executive Summary
+- **Overview**: 
+  - Prism is a fast-fashion e-commerce retailer offering trendy and affordable clothing.
+  - The project focuses on analysing data from 2020-2021 to uncover insights that support targeted marketing efforts and improve customer engagement.
 
 ---
 
-### Slide 2-3: RFM Segmentation
-- **Insight**: Low-frequency customers (F4) contribute disproportionately high revenue, driven by purchases of luxury items like Gucci or Prada.
-- **Recommendation**: 
-  - Retain these customers through loyalty programs and exclusive promotions.
-  - Shift M4 (low spenders) to M3 by promoting moderately priced premium products and value bundles.
+### Slide 4-5: RFM Segmentation
+- **Insight**: 
+  - Customers in the **low-frequency segment (F4)** generate high revenue, often purchasing luxury items like Gucci or Prada.
+  - Frequent buyers (F1/F2), while consistent, tend to have smaller basket sizes and lower overall revenue contributions.
+- **Recommendations**: 
+  - Retain F4 customers with loyalty programmes and exclusive offers.
+  - Convert M4 (low spenders) to M3 by promoting moderately priced premium products through targeted email campaigns featuring value bundles.
+  - Increase average basket size for F1/F2 by using cross-selling and upselling strategies.
 
 ---
 
-### Slide 4: Geographic Trends
-- **Insight**: Cities like London, Manchester, and Birmingham are top revenue drivers, while smaller cities show growth potential.
-- **Recommendation**: 
-  - Prioritise campaigns in urban centers focusing on high-demand items like sneakers and T-shirts.
-  - Launch localised seasonal promotions in smaller cities to expand the customer base.
+### Slide 6: Geographic Trends
+- **Insight**: 
+  - Revenue is concentrated in key cities like **London**, **Manchester**, and **Birmingham**, while smaller cities present growth opportunities.
+- **Recommendations**: 
+  - Focus campaigns in urban centres on high-demand products such as sneakers and T-shirts.
+  - Launch seasonal promotions in smaller cities, featuring bundled offers like sweatshirts and shoes to attract new customers.
+  - Use geographic insights to personalise marketing efforts based on regional preferences.
 
 ---
 
-### Slide 5: Demographic Insights
-- **Insight**: An even gender split (40%-49%) is unusual for fast-fashion retail, presenting opportunities for targeted engagement.
-- **Recommendation**: 
-  - Female customers: Campaigns highlighting top three purchases (T-shirts, lifestyle shoes, sweatshirts). Expected click-through rate boost: +10-15%.
-  - Male customers: Monthly emails alternating between their top five items (e.g., joggers, polo shirts). Expected click-through rate boost: +15-20%.
+### Slide 7: Demographic Insights
+- **Insight**: 
+  - Prism's customer base is evenly split between genders (40%-49%), which is atypical for fast-fashion businesses.
+  - Female customers frequently purchase T-shirts, lifestyle shoes, and sweatshirts, while male customers buy a broader range, including joggers, polo shirts, and running shoes.
+- **Recommendations**: 
+  - Design three annual email campaigns for female customers, focusing on their top three purchases, leading to a **10-15% boost in click-through rates** and an additional **£500k in revenue**.
+  - Target male customers with monthly emails featuring their top five items, yielding a **15-20% increase in engagement** and an additional **£1m in revenue**.
 
 ---
 
-### Slide 6: Behavioral Analysis
-- **Insight**: Medium spenders demonstrated 189% YoY growth, making them a key segment for retention strategies.
-- **Recommendation**: Engage these customers with monthly “We Miss You” emails and promotional offers (e.g., 10% discounts).
+### Slide 8: Behavioural Analysis
+- **Insight**: 
+  - Medium spenders have shown a **189% year-on-year growth**, making them the most promising segment.
+  - Their average basket value is £75, with an expected 45% growth in 2022.
+- **Recommendations**: 
+  - Engage medium spenders with monthly “We Miss You” campaigns and promotional offers (e.g., 10% discounts).
+  - Anticipated additional turnover: **£250k** from this segment.
 
 ---
 
 ## 🚀 Features
 
 - **SQL Analysis**:
-  - Comprehensive scripts to segment customers and analyse trends.
+  - Comprehensive scripts to segment customers and uncover trends.
 - **Interactive Dashboard**:
-  - Developed in Power BI, showcasing insights such as RFM segmentation, revenue trends, and geographic distribution.
+  - Developed in Power BI to provide stakeholders with actionable insights on RFM segmentation, revenue trends, and geographic distributions.
 - **Actionable Recommendations**:
-  - Strategies tailored to customer segments, demographics, and regional data.
+  - Clear strategies to drive customer engagement, optimise retention, and enhance revenue growth.
 
 ---
 
 ## 🛠 Tools Used
 
-- **SQL**: For data querying and analysis.
-- **Power BI**: For data visualization and dashboard creation.
-- **PowerPoint**: For presenting key findings to stakeholders.
+- **SQL**: For data querying, transformation, and analysis.
+- **Power BI**: To visualise insights and trends interactively.
+- **PowerPoint**: To present findings and recommendations to stakeholders effectively.
 
-----
+---
 
 ## SQL Scripts
 
 1. **[Behavioural Analysis](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/27267ee82e8a6f7f58542c5c1c6fb3ff77426d9d/behavioural_analysis.sql)**:
-   - Analysis of customer spending patterns and segmentation based on revenue contribution.
+   - Analyses customer spending patterns and segmentation based on revenue contribution.
 2. **[Demographics](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/27267ee82e8a6f7f58542c5c1c6fb3ff77426d9d/demographics_analysis.sql)**:
-   - Insights into gender-based purchasing behavior.
+   - Provides insights into gender-based purchasing behaviour.
 3. **[Geographic Analysis](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/27267ee82e8a6f7f58542c5c1c6fb3ff77426d9d/geographic_analysis.sql)**:
-   - Regional revenue trends and city-based performance.
+   - Highlights revenue trends and performance by city and region.
 4. **[RFM Analysis](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/27267ee82e8a6f7f58542c5c1c6fb3ff77426d9d/rfm_analysis_complete.sql)**:
-   - Customer segmentation by Recency, Frequency, and Monetary metrics.
+   - Segments customers by Recency, Frequency, and Monetary value.
 
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as needed. See the `LICENSE` file for details.
+This project is licensed under the MIT Licence. You are free to use, modify, and distribute the code as needed. See the `LICENCE` file for details.
 
 ---
 
