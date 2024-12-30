@@ -66,6 +66,20 @@ This project analyses customer and transaction data for a fast-fashion e-commerc
 
 ---
 
+## 🧑‍🤝‍🧑 Contributions
+
+This project was a collaborative effort by **Team SASS**:
+- **Sonia (Team Leader)**: 
+  - Directed the team and oversaw the project’s alignment with business objectives.
+  - Led the development of the 10-minute presentation and structured the narrative for stakeholders.
+- **Aaron**: 
+  - Conducted the analysis, cleaning data, and writing SQL queries for RFM, geographic, demographic, and behavioural segmentation.
+- **Shravya Nallamilli (me)**: 
+  - Designed the **wireframe** and developed the **Power BI dashboard**, ensuring insights were visualised interactively and effectively.
+  - Collaborated on the PowerPoint presentation to highlight insights and recommendations.
+
+---
+
 ## 🚀 Features
 
 - **SQL Analysis**:
