@@ -77,6 +77,23 @@ This project was a collaborative effort by **Team SASS**:
 - **Shravya Nallamilli (me)**: 
   - Designed the **wireframe** and developed the **Power BI dashboard**, ensuring insights were visualised interactively and effectively.
   - Collaborated on the PowerPoint presentation to highlight insights and recommendations.
+ 
+- ## 📊 Dashboard Preview
+
+- The following visuals were designed and created in **Power BI** by **Shravya Nallamilli** to provide actionable insights and enable stakeholders to make data-driven decisions.
+
+### 1. **RFM Segmentation Insights**
+![RFM Segmentation Insights](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/main/RFM_Segmentation_Insights.png)
+
+### 2. **User Distribution by City**
+![User Distribution by City](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/main/User_Distribution_by_City.png)
+
+### 3. **Purchasing Patterns: Gender-Based Insights**
+![Purchasing Patterns](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/main/Purchasing_Patterns.png)
+
+### 4. **Customer Spending Behaviour and Revenue Trends**
+![Customer Spending Behaviour](https://github.com/shravya-nallamilli/Prism-Marketing-Insights/blob/main/Customer_Spending_Behaviour.png)
+
 
 ---
 
